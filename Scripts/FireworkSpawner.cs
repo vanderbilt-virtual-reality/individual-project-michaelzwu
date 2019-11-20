@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FireworkSpawner : MonoBehaviour
 {
+    public GameObject match;
     [SerializeField]
     GameObject fireworkPrefab;
 
@@ -23,13 +24,16 @@ public class FireworkSpawner : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
+        if (other.gameObject == match) { 
         // if 2.5 sec have elapsed, set newest spawn time to now and spawn a firework
-        if (Time.time - lastSpawnTime > 2.5f)
-        {
-            lastSpawnTime = Time.time;
-            SpawnFirework();
+            if (Time.time - lastSpawnTime > 2.5f)
+            {
+                lastSpawnTime = Time.time;
+                SpawnFirework();
+            }
+
         }
-    }
+   }
 
     void SpawnFirework()
     {

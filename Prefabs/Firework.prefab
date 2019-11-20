@@ -9635,7 +9635,7 @@ GameObject:
   - component: {fileID: 3488819293406711230}
   - component: {fileID: 5827105273674716003}
   - component: {fileID: 7211971648844846976}
-  - component: {fileID: -9173756246321985196}
+  - component: {fileID: 7683693775174081760}
   m_Layer: 0
   m_Name: Firework
   m_TagString: Untagged
@@ -9718,7 +9718,7 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-9173756246321985196
+--- !u!114 &7683693775174081760
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
