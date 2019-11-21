@@ -12,7 +12,6 @@ VR is a good medium to achieve my goals, because it provides an opportunity for 
 # Critiques or limitations of VR for your goals? 
 A big limitation of VR is that you can’t feel the wind and atmosphere of what it truly feels like to watch fireworks. However, you could hypothetically emulate people and shouting to somewhat emulate the “rowdiness” of the atmosphere. Lastly, the oculus integration asset has some bugs to it which makes the experience feel less authentic.
 
-# Video Link:
-https://www.youtube.com/watch?v=uZsPacEAqg4&feature=youtu.be
+# [Screen Capture Demo](https://www.youtube.com/watch?v=uZsPacEAqg4&feature=youtu.be)
 
 
