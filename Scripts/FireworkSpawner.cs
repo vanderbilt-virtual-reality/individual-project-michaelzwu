@@ -37,8 +37,10 @@ public class FireworkSpawner : MonoBehaviour
 
     void SpawnFirework()
     {
-        Instantiate(fireworkPrefab, transform.position + new Vector3(transform.position.x + UnityEngine.Random.Range(1, 11),
-           1, transform.position.z + UnityEngine.Random.Range(1, 11)), Quaternion.identity);
+        /*Instantiate(fireworkPrefab, transform.position + new Vector3(transform.position.x + UnityEngine.Random.Range(1, 11),
+           transform.position.y + UnityEngine.Random.Range(1,11), transform.position.z + UnityEngine.Random.Range(1, 11)), Quaternion.identity);*/
+        Instantiate(fireworkPrefab, transform.position + new Vector3(0,
+           0, 0), Quaternion.identity);
     }
 
 }
