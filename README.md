@@ -7,10 +7,10 @@ If the user is running the game through the windows executable, the user can pla
 I decided to create a scene of fireworks, because it’s something that I have always enjoyed as a child. I decided to have an environment near the water, since I wanted to capture the “thrill” of watching fireworks at some waterfront. Due to extraordinary price tag (~$400) and unavailability of free unmarked 360 pictures, I decided to change my original watermarked picture of the Brooklyn Bridge to a picture of the Kroatien Makarska Riviera (https://www.flickr.com/photos/nb-fotos/49065499481/in/pool-360degrees/). At the end of the day, I truly believe that watching fireworks right underneath it at a waterfront is something that everyone should experience.
 
 # Why is VR a good medium to achieve your goals?
-VR is a good medium to achieve my goals, because it provides an opportunity for everyone to experience fireworks at the center of the action without needing to leave their comfortable homes. Sometimes, there are circumstances that prevent individuals from making it to some crowded waterfront during the 4th of July (or some holiday), so VR provides the opportunity for them to experience this. 
+VR is a good medium to achieve my goals, because it provides an opportunity for everyone to experience fireworks at the center of the action without needing to leave their comfortable homes. Sometimes, there are circumstances that prevent individuals from making it to some crowded waterfront during the Fourth of July (or some holiday), so VR provides the opportunity for them to experience this. 
 
 # Critiques or limitations of VR for your goals? 
-A big limitation of VR is that you can’t feel the wind and atmosphere of what it truly feels like to watch fireworks. However, you could hypothetically emulate people and shouting to somewhat emulate the “rowdiness” of the atmosphere. Lastly, the oculus integration asset has some bugs to it which makes the experience feel less authentic.
+A big limitation of VR is that you are not able to feel the wind nor experience the atmosphere of watching fireworks on some holiday like the Fourth of July. However, you could hypothetically emulate people and shouting to somewhat emulate the “rowdiness” of the atmosphere. Lastly, the oculus integration asset has some bugs to it which makes the experience feel less authentic.
 
 # [Screen Capture Demo](https://www.youtube.com/watch?v=uZsPacEAqg4&feature=youtu.be)
 
